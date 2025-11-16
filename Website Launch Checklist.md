@@ -1,6 +1,13 @@
 # Website Launch Checklist  
 A complete step-by-step guide to ensure your website is ready for a smooth, successful launch.
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Public%20Resource-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained%20By-New%20Perspective%20Design-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Website%20Launch%20Checklist-lightgrey?style=for-the-badge" />
+</p>
 ---
 
 # ✅ 1. Technical Setup
